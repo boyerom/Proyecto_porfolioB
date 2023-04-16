@@ -6,12 +6,13 @@ body{
     image-orientation: from-image;
     
 }
-div{
+.caja{
     float: right;
 }
+
 header{
     margin-top: 3cm;
-    color: lightslategrey;
+    color: #778899;
     font-size: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
