@@ -1,0 +1,17 @@
+body{
+    color: rgb(40, 45, 51);
+    font-size: smaller;
+    font-style:normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    image-orientation: from-image;
+    
+}
+div{
+    float: right;
+}
+header{
+    margin-top: 3cm;
+    color: lightslategrey;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
